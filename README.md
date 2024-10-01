@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MauAFDias or Mauricio Dias
-- 👀 I’m interested in Programming, focused on backend PHP
-- 🌱 I’m currently learning PHP + PHP frameworks
-- 💞️ I’m looking to collaborate on any PHP project related
+- 👋 Hi, I’m @MauDevFernandes or Mauricio Fernandes.
+- 👀 I’m interested in Programming, focused on backend and dev.
+- 🌱 I’m currently learning C# + Game development.
+- 💞️ I’m looking to collaborate on any Game or C# project related.
 - 📫 How to reach me: Email: mauricio.pafs@gmail.com or https://www.linkedin.com/in/maudias/
 
 <!---
